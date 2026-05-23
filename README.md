@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Sarthak Pant 👋
 
-<!--
-**sarthakpant00/sarthakpant00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Computer Science student passionate about software engineering and building real-world projects.
 
-Here are some ideas to get you started:
+## 🌱 Currently Learning
+- Data Structures & Algorithms (C++ / Java)
+- Web Development (HTML, CSS, JavaScript, React)
+- Git & GitHub for version control
+- Backend development fundamentals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Goals
+- Become a strong software engineer
+- Build impactful full-stack projects
+- Secure internships in software engineering 
+
+## 📫 Contact Me
+- Email: sarthakpant2003@gmail.com
+- LinkedIn: https://www.linkedin.com/in/sarthakpant00/
+- GitHub: https://github.com/sarthakpant00
